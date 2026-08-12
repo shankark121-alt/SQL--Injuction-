@@ -43,6 +43,28 @@ Click SQL injuction
   Another commonly used from
   <img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/e3a6dfbe-2a2e-4627-946a-869cb1367258" />
   
+# Determine the number of columns
+
+ <img width="908" height="553" alt="image" src="https://github.com/user-attachments/assets/b1e45d16-30a7-405a-8364-d190ecf51107" />
+
+# 4. UNION-Based SQL Injection
+
+Once you know the column count, you can test UNION.  
+
+For example, if two columns are returned:
+
+<img width="898" height="557" alt="image" src="https://github.com/user-attachments/assets/fac7f27b-3bee-407c-bc28-aad55c2b2596" />
+
+Then test database information:
+
+<img width="904" height="560" alt="image" src="https://github.com/user-attachments/assets/2a9c677e-2dcb-4305-820a-65a9d4567257" />
+
+This can reveal:
+
+Current database
+MySQL version
+
+<img width="910" height="557" alt="image" src="https://github.com/user-attachments/assets/a08c11bf-a1eb-4bb9-ac92-37445e11700c" />
 
   
 
