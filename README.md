@@ -38,8 +38,7 @@ Click SQL injuction
 # Authentication/logic bypass test
 
   <img width="910" height="569" alt="image" src="https://github.com/user-attachments/assets/9a577441-907f-4b96-b511-22e0e8213b50" />
-  <img width="910" height="569" alt="image" src="https://github.com/user-attachments/assets/cc59700f-ff65-4300-bfaf-be91c97411fc" />
-
+  
   Another commonly used from
   <img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/e3a6dfbe-2a2e-4627-946a-869cb1367258" />
   
