@@ -16,3 +16,18 @@ Low
 Medium
 High
 Impossible
+
+# PRACTICAL STEPS FOR SQL INJUCTION
+
+Start DVWA by login 192.168.190.135/DVWA
+Login by using Username and Password
+Set: DVWA security Low
+Click SQL injuction
+<img width="1234" height="651" alt="image" src="https://github.com/user-attachments/assets/eb6eb234-14b5-4a71-881a-2d3d21157860" />
+
+3. SQL Injection — Low Level
+At Low level, DVWA provides a User ID input.
+First test a normal value: 1
+<img width="1234" height="648" alt="image" src="https://github.com/user-attachments/assets/6775f256-91e6-484d-9c53-dfb4929aee7f" />
+
+
