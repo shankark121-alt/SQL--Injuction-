@@ -30,9 +30,21 @@ Click SQL injuction
 
 3. SQL Injection — Low Level
    
-At Low level, DVWA provides a User ID input.
+   At Low level, DVWA provides a User ID input.
 
-First test a normal value: 1
-<img width="1234" height="648" alt="image" src="https://github.com/user-attachments/assets/6775f256-91e6-484d-9c53-dfb4929aee7f" />
+   First test a normal value: 1
+  <img width="1234" height="648" alt="image" src="https://github.com/user-attachments/assets/6775f256-91e6-484d-9c53-dfb4929aee7f" />
+
+# Authentication/logic bypass test
+
+  <img width="910" height="569" alt="image" src="https://github.com/user-attachments/assets/9a577441-907f-4b96-b511-22e0e8213b50" />
+  <img width="910" height="569" alt="image" src="https://github.com/user-attachments/assets/cc59700f-ff65-4300-bfaf-be91c97411fc" />
+
+  Another commonly used from
+  <img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/e3a6dfbe-2a2e-4627-946a-869cb1367258" />
+
+  
+
+
 
 
