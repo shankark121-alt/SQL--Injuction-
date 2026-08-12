@@ -42,6 +42,7 @@ Click SQL injuction
 
   Another commonly used from
   <img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/e3a6dfbe-2a2e-4627-946a-869cb1367258" />
+  
 
   
 
