@@ -98,6 +98,7 @@ Enter:
 
 1
 
+<img width="1095" height="625" alt="image" src="https://github.com/user-attachments/assets/8aa1495b-965b-4fe4-900b-33f49c69198b" />
 
 
 Step 2 – Test Boolean Injection
