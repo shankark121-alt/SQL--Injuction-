@@ -17,7 +17,7 @@ Medium
 High
 Impossible
 
-## Lab Environment
+# LAB ENVIORNMENT
 
 | Component | Details |
 |-----------|---------|
