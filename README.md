@@ -44,7 +44,7 @@ Set: DVWA security Low
 Click SQL injuction
 <img width="1234" height="651" alt="image" src="https://github.com/user-attachments/assets/eb6eb234-14b5-4a71-881a-2d3d21157860" />
 
-3. SQL Injection — Low Level
+ # SQL Injection — Low Level
    
    At Low level, DVWA provides a User ID input.
 
@@ -80,6 +80,28 @@ Current database
 MySQL version
 
 <img width="910" height="557" alt="image" src="https://github.com/user-attachments/assets/a08c11bf-a1eb-4bb9-ac92-37445e11700c" />
+
+# SQL Injection – Medium Level
+
+Change:
+
+DVWA Security → Medium
+
+Go Back and on SQL Injuction
+
+Medium level introduces additional input handling/filtering. The DVWA project notes that the SQL Injection and Blind 
+SQL Injection input handling was changed to POST for the medium-level challenge.
+
+# Step 1 – Test Normal Input
+
+Enter:
+
+1
+
+<img width="875" height="621" alt="image" src="https://github.com/user-attachments/assets/7dc95330-eb2a-4a63-9d89-4c914ab1fb6e" />
+
+
+
 
   
 
