@@ -17,6 +17,22 @@ Medium
 High
 Impossible
 
+## Lab Environment
+
+| Component | Details |
+|-----------|---------|
+| Attacker Machine | Kali Linux |
+| Target Application | DVWA (Damn Vulnerable Web Application) |
+| Web Server | Apache |
+| Database | MySQL / MariaDB |
+| Programming Language | PHP |
+| Browser | Firefox / Google Chrome |
+| Vulnerabilities | SQL Injection & Blind SQL Injection |
+| Security Levels | Low, Medium, High |
+| Tools Used | Web Browser, Burp Suite (Optional) |
+| Network | Localhost / Isolated Virtual Lab |
+| Purpose | Security testing and vulnerability analysis |
+
 # PRACTICAL STEPS FOR SQL INJUCTION
 
 Start DVWA by login 192.168.190.135/DVWA
